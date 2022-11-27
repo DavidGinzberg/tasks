@@ -9,7 +9,9 @@ function App(): JSX.Element {
             </header>
             <p>
                 Edit <code>src/App.tsx</code> and save. This page will
-                automatically reload.
+                automatically reload. <br />
+                Changes are visible locally as soon as the file is saved, but
+                you must commit and push to see them on GitHub.
             </p>
         </div>
     );
